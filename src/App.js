@@ -5,7 +5,7 @@ import HomePage from "./homepage.component";
 function App() {
   return (
     <div>
-      <h1>Test GH1111</h1>
+      <h1>Thien Phung</h1>
       <HomePage />
     </div>
   );
